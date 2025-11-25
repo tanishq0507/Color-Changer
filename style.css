@@ -4,6 +4,7 @@
 }
 
 body{
+  /* giving the max-width */
     max-width: 1200px;
   margin: auto;
 }
